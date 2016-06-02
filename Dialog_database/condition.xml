@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ConditionCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Conditions>
+    <Condition id="1" name="testCondition">
+      <value>false</value>
+    </Condition>
+    <Condition id="2" name="testCondition2">
+      <value>false</value>
+    </Condition>
+    <Condition id="3" name="testCondition3">
+      <value>false</value>
+    </Condition>
+    <Condition id="4" name="testCondition4">
+      <value>false</value>
+    </Condition>
+  </Conditions>
+</ConditionCollection>
